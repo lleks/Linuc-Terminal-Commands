@@ -1,4 +1,4 @@
-# Linux-Terminal-Commands
+# Linux Terminal Commands
 List of frequently used Linux terminal commands
 
 
